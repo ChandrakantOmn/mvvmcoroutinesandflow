@@ -6,7 +6,7 @@ import java.text.SimpleDateFormat
 import java.util.*
 
 object Utils {
-    const val OPEN_WEATHER_MAPS_API_KEY = ""
+    const val OPEN_WEATHER_MAPS_API_KEY = "b6907d289e10d714a6e88b30761fae22"
     const val DEFAULT_UNIT_SYSTEM = "metric"
     const val LONDON_CITY = "London"
     const val BASE_URL = "http://api.openweathermap.org/"
